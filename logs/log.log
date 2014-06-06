@@ -1,0 +1,8 @@
+2014-06-06 01:45:58,371  INFO [main] (TestNGAnnoPractice.java:19) - I am from beforeClass method
+2014-06-06 01:45:58,377  INFO [main] (TestNGAnnoPractice.java:25) - I am from test1 method
+2014-06-06 01:45:58,378  INFO [main] (TestNGAnnoPractice.java:40) - I am from afterMetod method
+2014-06-06 01:45:58,380  INFO [main] (TestNGAnnoPractice.java:30) - I am from test2 method
+2014-06-06 01:45:58,381  INFO [main] (TestNGAnnoPractice.java:40) - I am from afterMetod method
+2014-06-06 01:45:58,382  INFO [main] (TestNGAnnoPractice.java:35) - I am from test3 method
+2014-06-06 01:45:58,383  INFO [main] (TestNGAnnoPractice.java:40) - I am from afterMetod method
+2014-06-06 01:45:58,383  INFO [main] (TestNGAnnoPractice.java:45) - I am from afterClass method
